@@ -1,28 +1,43 @@
 let a = 10;
 let b = 3;
-let hasil = a**b;
-
-let X = 10;
-X += -3;
-
-let angka = 5;
-angka--;
-
-let umur = 17;
+let = a**b;
 
 
 let namaDepan = "Ahmad"
-let namaBelakang = "Adli"
+let umur = 18;
+// console.log(umur === 18)
 
 
 let nilai = [90,85,70,65,50];
-hasil = nilai[0] >= nilai[1];
+let hasil = nilai[0] + nilai[1]
+let selisihnya = nilai[2] - nilai[3]
+// console.log("Nilainya " , "="  ,nilai[0], "Hasilnya " + hasil, "Selisihnya " + "= " + selisihnya);
 
-
+ 
 let harga = [1000,2000,3000,4000,5000];
 let jumlah = [1,2,3,4,5];
 let total = 
     harga [0] * jumlah[1];
+//  console.log(" Harganya " ,"=", harga[0] +  " Jumlahnya " + jumlah[1] + " Totalnya " + "=" + total);
 
 
-console.log(" Harganya " ,"=", harga[0] + " Jumlahnya " + jumlah[1] + " Totalnya " + "=" + total);
+let c = 10;
+let d = 3;
+hasil = c%d;
+
+// console.log("Hasilnya" + " " + hasil)
+
+let x = 5;
+// console.log(x **= 3);
+
+let angka = 10;
+angka++;
+// console.log(angka);
+
+let hargaa = [10000, 15000, 20000];
+let jumlahh = [2, 1, 3];
+let totall =
+hargaa [0] * jumlahh[0] +
+hargaa [1] * jumlahh[1] +
+hargaa [2] * jumlahh[2];
+console.log(total);
