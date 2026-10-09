@@ -75,3 +75,19 @@
 // } else {
 //   console.log("Tidak Boleh Masuk");
 // }
+
+// let angka = [10, 15, 20, 25];
+// if (angka [3] % 2 === 0) {
+//     console.log("Genap");
+// }
+// else {
+//     console.log("Ganjil");
+// }
+
+let nama = [10, 15, 20, 25];
+if (angka [3] % 2 === 0) {
+    console.log("Genap");
+}
+else {
+    console.log("Ganjil");
+}
