@@ -5,7 +5,7 @@
 //     // console.log("Remidi");
 // }
 
- let beratKayu = 320; // dalam kilogram
+//  let beratKayu = 320; // dalam kilogram
 // if (beratKayu >= 400) {
 //   console.log("Kayu ini termasuk overweight");
 //   console.log("Berat kayu ini adalah " + beratKayu + " kg");
@@ -84,10 +84,10 @@
 //     console.log("Ganjil");
 // }
 
-let nama = [10, 15, 20, 25];
-if (angka [3] % 2 === 0) {
-    console.log("Genap");
+let nama = ["Andi", "Budi", "Citra"];
+if (nama[2] === "Citra") {
+    console.log("Nama ditemukan");
 }
 else {
-    console.log("Ganjil");
+    console.log("Tidak ditemukan");
 }
