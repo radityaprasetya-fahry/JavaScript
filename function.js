@@ -70,8 +70,19 @@
 
 // tampilkanUmur()
 
-function tampilkanBeratBadan () {
-    let beratbadan = 70;
-    console.log(beratbadan)
-    tampilkanBeratBadan(70)
-}
+//  function tampilkanBeratBadan () {
+//      let beratbadan = 70;
+//      console.log(beratbadan)
+
+//  }
+//  tampilkanBeratBadan(70)
+
+// let beratbadan = 70
+// function tampilkanBeratBadan () {
+//  let beratbadan = 70;
+// console.log(beratBadan)
+// }
+
+// beratBadan(200)
+// console.log(berat)
+
